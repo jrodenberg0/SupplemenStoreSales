@@ -1,0 +1,1 @@
+Here is the repository for my Supplement Stores project, this project includes EDA, Model Selection and tuning, Backtesting/Simulating the Forecast and computing various KPIs to get a well balanced forecast.
